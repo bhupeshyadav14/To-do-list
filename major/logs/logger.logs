@@ -1,0 +1,144 @@
+2019-02-17 10:48:08 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "Length should be greater than 8 and less than 20"
+
+2019-02-17 11:37:50 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "Length should be greater than 8 and less than 20"
+
+2019-02-17 11:40:46 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 11:41:26 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 11:41:46 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+
+2019-02-17 11:50:39 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+
+2019-02-17 11:51:06 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 13:18:57 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 13:19:17 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 13:55:14 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 13:58:07 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 14:00:20 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+
+2019-02-17 14:09:38 ERROR Validator:37 - 
+ 
+com.ncu.exception.SpaceException:  "space not allowed"
+
+2019-02-17 16:48:42 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 16:49:33 ERROR Validator:37 - 
+ 
+com.ncu.exception.SpaceException:  "space not allowed"
+
+2019-02-17 16:49:50 ERROR Validator:57 - 
+ 
+com.ncu.exception.NumberException: Number Exception"Password must contain a number"
+
+2019-02-17 19:40:19 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 20:40:56 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 22:45:45 ERROR Validator:37 - 
+ 
+com.ncu.exception.SpaceException:  "space not allowed"
+
+2019-02-17 22:46:49 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 22:47:41 ERROR Validator:37 - 
+ 
+com.ncu.exception.SpaceException:  "space not allowed"
+
+2019-02-17 22:49:34 ERROR Validator:37 - 
+ 
+com.ncu.exception.SpaceException:  "space not allowed"
+
+2019-02-17 22:49:52 ERROR Validator:37 - 
+ 
+com.ncu.exception.SpaceException:  "space not allowed"
+
+2019-02-17 22:53:21 ERROR Validator:37 - 
+ 
+com.ncu.exception.SpaceException:  "space not allowed"
+
+2019-02-17 23:02:21 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+
+2019-02-17 23:02:59 ERROR Validator:57 - 
+ 
+com.ncu.exception.NumberException: Number Exception"Password must contain a number"
+
+2019-02-17 23:21:18 ERROR Validator:32 - 
+ 
+com.ncu.exception.UsernameLengthException:  "username Length should be greater than 8 and less than 20"
+
+2019-02-17 23:44:46 ERROR Validator:57 - 
+ 
+com.ncu.exception.NumberException: Number Exception"Password must contain a number"
+
+2019-02-18 08:40:10 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+
+2019-02-18 09:15:45 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+
+2019-02-18 09:44:38 ERROR Validator:57 - 
+ 
+com.ncu.exception.NumberException: Number Exception"Password must contain a number"
+
+2019-02-18 10:21:09 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+
+2019-02-18 10:23:47 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+
+2019-02-18 10:26:12 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+
+2019-02-18 10:32:52 ERROR Validator:57 - 
+ 
+com.ncu.exception.NumberException: Number Exception"Password must contain a number"
+
+2019-02-18 12:38:29 ERROR Validator:52 - 
+ 
+com.ncu.exception.PasswordLengthException:  "password Length must be greater than 8 and less than 20"
+

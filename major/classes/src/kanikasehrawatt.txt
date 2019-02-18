@@ -1,0 +1,3 @@
+sleep
+eat
+go to clg
